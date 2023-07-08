@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(109, 177, 236);
+}
+.headerbox{
+    border: 0.1px solid black;
+    width: 300px;
+}
+.name{
+    text-align: center;
+}
+.coinbox{
+    width: 200px;
+    background: none;
+    font-size: 20px;
+    height: 50px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+button{
+    background: none;
+    font-size: 20px;
+    height: 50px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+#root{
+    margin-top: 50px;
+}
+.header{
+    color: rgba(231, 5, 5, 0.849);
+}
